@@ -1,7 +1,5 @@
 ### Hi, I'm Liam! 👋
 
-I became hooked on programming when I had my first experience running a public game server 5 years ago.
-Since then, I've made scripts from bash to batch and I am now focused on improving my software development skills.
-I'm currently on the look out for a backend developer role, ideally writing in Python or Java. You can reach me through [email](mailto:liam.a.ek05@gmail.com).
+Five years ago, I discovered my passion for programming by scripting and maintaining a public game server. This experience led me to create a wide range of scripts, from bash to batch, improving my programming skills. Now, I'm focused on advancing my software development career, particularly in backend development.
 
-At the moment, part of my focus is on creating a closed-source game in the Godot engine, scripting in C#.
+Currently, I'm developing a closed-source game in the Godot Engine, utilizing C# for scripting. I'm actively seeking a backend developer role, ideally working with Python or Java. Feel free to reach out to me via [email](mailto:liam.a.ek05@gmail.com).
