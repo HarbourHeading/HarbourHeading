@@ -7,7 +7,7 @@
     <p>
       <strong>Hi I'm Liam, a developer from Sweden.</strong> 👋
       <br><br>
-      Currently building Fullstack Web applications which can be found here on github!<br>
+      Currently building a fullstack web application which can be found here on github!<br>
       Experience leading a team and hosting a game-server over a 3 year time span.<br>
       You can quickly reach me through <a href="mailto:liam.e.swe@gmail.com">email</a>.
     </p>
