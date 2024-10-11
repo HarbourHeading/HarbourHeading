@@ -8,7 +8,7 @@
       <strong>Hi I'm Liam, a developer from Sweden.</strong> 👋
       <br>
       <br>
-      Currently a developer on Elpriser Live, a fullstack iOS app with a web-based dashboard!<br>
+      Currently a developer on Elpriser Live, an iOS app to view electricity prices!<br>
       Passionate about fullstack development, cloud solutions and networking.<br>
       You can quickly reach me through <a href="mailto:liam.e.swe@gmail.com">email</a>.
     </p>
