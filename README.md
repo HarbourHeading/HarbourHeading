@@ -5,7 +5,7 @@
   </div>
   <div id="content">
     <p>
-      <strong>Hi I'm Liam, a developer from Sweden.</strong> 👋
+      <strong>Hi I'm Liam, a fullstack developer from Sweden.</strong> 👋
       <br>
       <br>
       Currently a developer on Elpriser Live, an iOS app to view electricity prices!<br>
