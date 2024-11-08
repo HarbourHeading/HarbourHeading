@@ -25,6 +25,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/traefikproxy/traefikproxy-original.svg" title="Traefik Proxy" alt="Traefik Proxy" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>
   </div>
 </div>
