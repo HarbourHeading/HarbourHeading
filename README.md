@@ -9,7 +9,7 @@
       <br>
       <br>
       Currently a developer on Elpriser Live, an iOS app to view electricity prices!<br>
-      Learning more about fullstack development, cloud solutions and networking.<br>
+      Learning more about fullstack development, networking automation and cloud solutions.<br>
       You can quickly reach me through <a href="mailto:liam.e.swe@gmail.com">email</a>.
     </p>
   </div>
