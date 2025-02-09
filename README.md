@@ -5,11 +5,11 @@
   </div>
   <div id="content">
     <p>
-      <strong>Hi I'm Liam, a fullstack developer from Sweden.</strong> 👋
+      <strong>Hi I'm Liam, a developer from Sweden</strong> 👋
       <br>
       <br>
-      Currently a developer on Elpriser Live, an iOS app to view electricity prices!<br>
-      Learning more about fullstack development, networking automation and cloud solutions.<br>
+      Developed Elpriser Live, an iOS app to view electricity prices!<br>
+      Learning more about fullstack development, networking automation and game development.<br>
       You can quickly reach me through <a href="mailto:liam.e.swe@gmail.com">email</a>.
     </p>
   </div>
