@@ -10,7 +10,7 @@
       <br>
       Developed Elpriser Live, an iOS app to view electricity prices!<br>
       Learning more about fullstack, networking and game development.<br>
-      You can quickly reach me through <a href="https://www.linkedin.com/in/liam-e-swe">linkedin</a>.
+      You can reach me quickly through <a href="https://www.linkedin.com/in/liam-e-swe">linkedin</a>.
     </p>
   </div>
   <br>
