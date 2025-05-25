@@ -1,7 +1,4 @@
 <div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/liam-e-swe"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-  </div>
   <div id="content">
     <p>
       <strong>Hi I'm Liam, a developer from Sweden</strong> 👋
